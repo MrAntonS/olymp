@@ -6,7 +6,7 @@ using namespace std;
 
 void solve() {
     /*
-    Need to work on that tomorro
+    Need to work on that tomorrow
     */
 }
 // 2 * 1 - 3 = -1
