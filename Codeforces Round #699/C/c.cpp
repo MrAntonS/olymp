@@ -5,15 +5,7 @@
 using namespace std;
 
 void solve() {
-    int n, k, r, l;
-    cin >> n >> k;
-    int x;
-    cin >> x;
-    for (int i = 1; i < n; i++) {
-        int j;
-        cin >> j;
-
-    }
+    
 }
 
 int main() {
